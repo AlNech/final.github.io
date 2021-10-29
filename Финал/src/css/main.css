@@ -1,0 +1,17 @@
+body {
+  box-sizing: border-box;
+}
+#app-menu {
+    width: 300px;
+    display:flex;
+    flex-direction: column-reverse;
+    justify-content: space-around;
+}
+#app-menu div {
+   padding-left: 10px;
+}
+#app-menu a, button {
+   display: block;
+   margin: 10px 0;
+   text-align: center;
+}
