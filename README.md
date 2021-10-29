@@ -1,3 +1,2 @@
 # final.github.io
-Create navigation menu (save it)
-Работу выполнила Нечунаева Алёна дисциплина "Программирование на JavaScript" 
+Create navigation menu (and save it). Работу выполнила Нечунаева Алёна дисциплина "Программирование на JavaScript" 
